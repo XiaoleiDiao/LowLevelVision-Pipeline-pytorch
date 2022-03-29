@@ -34,4 +34,4 @@ This is an easy-handle pipeline project for common AI tasks by pytorch. Currentl
 
 
 #################
-test 
+test 16:30
